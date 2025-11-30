@@ -133,3 +133,4 @@ contract Project {
         return (winnerId, candidates[winnerId].name, candidates[winnerId].voteCount);
     }
 }
+/Decentralized Voting.
